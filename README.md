@@ -1,2 +1,2 @@
 My first readme
-Updating my reqadme file
+Updating my readme file
